@@ -37,7 +37,7 @@ cd example-reveal-js-presentation
 
 #### Viewing HTML Pages Directly in a Browser
 
-To view HTML pages directly in a browser, simply navigate to the pages of interest and open them with a prefferred web browser.
+To view HTML pages directly in a browser, simply navigate to the pages of interest and open them with a preferred web browser.
 
 ## License
 
