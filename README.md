@@ -1,4 +1,4 @@
-# Fall 2024 Class 02 - Brief History Review and Class References
+# Example Presentations with Reveal.js
 
 This repository shows how to create presentations in [reveal.js](https://revealjs.com/) and serve them locally or via codespaces.
 
