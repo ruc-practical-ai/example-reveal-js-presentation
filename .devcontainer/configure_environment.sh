@@ -39,3 +39,6 @@ add_aliases $GIT_ALIASES_FILE
 add_aliases $POETRY_ALIASES_FILE
 
 echo 'source $HOME/.bash_profile' >> $HOME/.bashrc
+echo "Success!"
+
+exit 0
